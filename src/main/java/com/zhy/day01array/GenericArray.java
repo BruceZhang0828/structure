@@ -1,6 +1,4 @@
-package com.zhy.array;
-
-import java.util.Arrays;
+package com.zhy.day01array;
 
 public class GenericArray<T> {
     private T[] data;

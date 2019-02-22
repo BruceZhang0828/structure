@@ -1,4 +1,4 @@
-package com.zhy.array;
+package com.zhy.day01array;
 
 public class Array {
     //定义整数型数据data保存数据
@@ -84,7 +84,7 @@ public class Array {
 
         array.insert(3, 10);
 
-        //array.insert(3, 11);
+        //day01array.insert(3, 11);
 
         array.printAll();
     }
